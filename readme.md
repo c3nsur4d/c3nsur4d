@@ -12,8 +12,9 @@
 
   <div align="center">
   <a href="https://discord.com/users/474531821019856936" target="_blank">
-  <img src="https://lanyard-profile-readme.vercel.app/api/996023627105435658?bg=111111"> 
+  <img src="https://lanyard.cnrad.dev/api/474531821019856936?bg=111111"> 
 </a>
+   
    </div>
 
    <div align="center">
