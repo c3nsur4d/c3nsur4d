@@ -1,7 +1,7 @@
  <h1 align="center"> 🦅 Hello, I'm C3nsur4d !</h1>
 
 <p align="center">
-<img src="https://tenor.com/view/pokemon-gif-5929994">
+<img src="https://cdn.discordapp.com/attachments/1110880811869290599/1111241389381009408/pokemon.gif">
  <p align="center">
  
  <p align="center">
