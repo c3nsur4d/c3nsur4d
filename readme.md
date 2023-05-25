@@ -5,7 +5,7 @@
  <p align="center">
  
  <p align="center">
-    <a href="https://youtube.com/@C3nsur4dWeb" target"blank_"><img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+    <a href="https://youtube.com/@censurediscord" target"blank_"><img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
     <a href="https://github.com/C3nsur4d" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
